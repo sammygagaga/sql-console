@@ -1,0 +1,7 @@
+{
+  "db_host": "localhost",
+  "db_name": "sql_storage",
+  "db_port": "3306",
+  "db_username":"root",
+  "db_password": ""
+}
